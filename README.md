@@ -1,3 +1,3 @@
 - 👋 Hi, I’m paul
 - 👀 I’m interested in cloud development and automated deployments
-- 🌱 I’m currently learning GCP
+- 🌱 I’m currently learning Phaser
